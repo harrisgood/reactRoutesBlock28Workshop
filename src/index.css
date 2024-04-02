@@ -17,6 +17,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  background-image: linear-gradient(130deg, #b05f6d, #275db3, #27b333, #f0bd31, #66023c);
 }
 #main-section {
   flex-grow: 1;
